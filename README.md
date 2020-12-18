@@ -4,3 +4,8 @@ different pricing methods, such as **Monte Carlo simulation** and closed-form so
 **object-oriented programming** considering scalability and maintainability. We design our own polymorphic classes. These skills we use in this project include object-oriented features of
 C++ **(Inheritance, Encapsulation, and Polymorphism)** and mathematical skills but also include testing, debugging, design, and software architecture. Options are financial instruments that are
 derivatives based on the value of underlying securities such as stocks.
+
+## UML Class Diagram 
+![alt text](https://github.com/pcchu30/static/blob/master/images/UML/Portfolio.svg?raw=true)
+
+![alt text](https://github.com/pcchu30/static/blob/master/images/UML/Portfolio2.svg?raw=true)
