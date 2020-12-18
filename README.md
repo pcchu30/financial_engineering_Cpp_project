@@ -5,7 +5,7 @@ different pricing methods, such as **Monte Carlo simulation** and closed-form so
 C++ **(Inheritance, Encapsulation, and Polymorphism)** and mathematical skills but also include testing, debugging, design, and software architecture. Options are financial instruments that are
 derivatives based on the value of underlying securities such as stocks.
 
-## UML Class Diagram 
+## UML Class Diagram A
 ![alt text](https://github.com/pcchu30/static/blob/master/images/UML/Portfolio.svg?raw=true)
-
+## UML Class Diagram B
 ![alt text](https://github.com/pcchu30/static/blob/master/images/UML/Portfolio2.svg?raw=true)
